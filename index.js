@@ -7,5 +7,5 @@ function whisper(string) {
 }
 
 function logShout(string) {
-    console.log (`HELL0;
+    console.log (`HELL0,${sting}`);
 }
